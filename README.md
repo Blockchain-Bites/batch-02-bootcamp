@@ -1,4 +1,8 @@
+# BOOTCAMP VIRTUAL DE PROGRAMACIÓN BLOCKCHAIN by <u>Blockchain Bites</u>
+
 ## Configurando el repositorio
+
+Completa los siguientes pasos y anota el `address` del contrato que arrojará el terminal al completar el paso `8`.
 
 1. Repositorio y Sistema
 
@@ -47,7 +51,7 @@
 
    - Así debería lucir el archivo `.env`:
 
-     ![image-20230806081324742](/Users/steveleec/Documents/Blockchain Bites/batch-02-bootcamp/README.assets/image-20230806081324742.png)
+     ![image-20230806081324742](https://github.com/Blockchain-Bites/batch-02-bootcamp/assets/3300958/73e61f97-038d-4d38-b570-32ec59b633ee)
 
 7. Dirigirte al archivo `contracts/MiPrimerContrato.sol`:
 
