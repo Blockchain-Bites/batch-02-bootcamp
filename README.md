@@ -15,6 +15,7 @@ Completa los siguientes pasos y anota el `address` del contrato que arrojará el
      ```
      $ git clone https://github.com/Blockchain-Bites/batch-02-bootcamp.git
      $ cd batch-02-bootcamp
+     $ npm install
      ```
 
 2. Instalar Metamask
